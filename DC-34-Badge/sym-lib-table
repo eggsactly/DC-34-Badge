@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "Espressif")(type "KiCad")(uri "/home/gweaver/Projects/DC-34-Badge/kicad-libraries/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "DMG3415U-7")(type "KiCad")(uri "C:/Users/gweaver/Documents/GitHub/DC-34-Badge/digikey-kicad-libraries/libraries/DMG3415U-7.kicad_sym")(options "")(descr ""))
 )
