@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "Espressif")(type "KiCad")(uri "/home/gweaver/Projects/DC-34-Badge/kicad-libraries/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "CF4245FH0R0")(type "KiCad")(uri "C:/Users/gweaver/Documents/GitHub/DC-34-Badge/digikey-kicad-libraries/footprints/CF4245FH0R0.pretty")(options "")(descr ""))
 )

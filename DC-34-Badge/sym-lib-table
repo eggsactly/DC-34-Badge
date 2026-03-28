@@ -3,4 +3,5 @@
   (lib (name "DMG3415U-7")(type "KiCad")(uri "C:/Users/gweaver/Documents/GitHub/DC-34-Badge/digikey-kicad-libraries/libraries/DMG3415U-7.kicad_sym")(options "")(descr ""))
   (lib (name "MAX17048G_T10")(type "KiCad")(uri "C:/Users/gweaver/Documents/GitHub/DC-34-Badge/digikey-kicad-libraries/libraries/MAX17048G_T10.kicad_sym")(options "")(descr ""))
   (lib (name "2171790001")(type "KiCad")(uri "C:/Users/gweaver/Documents/GitHub/DC-34-Badge/digikey-kicad-libraries/libraries/2171790001.kicad_sym")(options "")(descr ""))
+  (lib (name "ZIF")(type "KiCad")(uri "C:/Users/gweaver/Documents/GitHub/DC-34-Badge/digikey-kicad-libraries/libraries/ZIF.kicad_sym")(options "")(descr ""))
 )
