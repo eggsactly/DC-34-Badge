@@ -1,6 +1,7 @@
 (fp_lib_table
-  (lib (name "Espressif")(type "KiCad")(uri "../kicad-libraries/footprints/Espressif.pretty")(options "")(descr ""))
   (lib (name "CF4245FH0R0")(type "KiCad")(uri "..//digikey-kicad-libraries/footprints/CF4245FH0R0.pretty")(options "")(descr ""))
   (lib (name "62684-402100ALF")(type "KiCad")(uri "../digikey-kicad-libraries/footprints/62684-402100ALF.pretty")(options "")(descr ""))
   (lib (name "AP3036BKTR-G1")(type "KiCad")(uri "../digikey-kicad-libraries/footprints/AP3036BKTR-G1.pretty")(options "")(descr ""))
+  (lib (name "expressif-digikey")(type "KiCad")(uri "../digikey-kicad-libraries/footprints/expressif-digikey.pretty")(options "")(descr ""))
+  (lib (name "2171790001")(type "KiCad")(uri "../digikey-kicad-libraries/footprints/2171790001.pretty")(options "")(descr ""))
 )
