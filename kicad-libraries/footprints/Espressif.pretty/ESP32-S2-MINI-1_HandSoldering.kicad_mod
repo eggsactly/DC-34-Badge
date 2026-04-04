@@ -1,4 +1,4 @@
-(footprint "ESP32-S2-MINI-1_HandSoldering" (version 20211014) (generator pcbnew)
+(footprint "ESP32-S2-MINI-1_HandSoldering" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "ESP32-S2-MINI-1 and ESP32-S2-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf")
   (tags "ESP32-S2 Hand Soldering")

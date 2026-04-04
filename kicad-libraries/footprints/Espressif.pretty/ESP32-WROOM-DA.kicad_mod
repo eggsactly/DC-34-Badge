@@ -1,4 +1,4 @@
-(footprint "ESP32-WROOM-DA" (version 20211014) (generator pcbnew)
+(footprint "ESP32-WROOM-DA" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "ESP32-WROOM-DA: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-da_datasheet_en.pdf")
   (tags "ESP32 Dual Antenna DA")

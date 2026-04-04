@@ -1,4 +1,4 @@
-(footprint "ESP32-WROOM-32E" (version 20211014) (generator pcbnew)
+(footprint "ESP32-WROOM-32E" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "ESP32-WROOM-32E and ESP32-WROOM-32UE: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf")
   (tags "ESP32")

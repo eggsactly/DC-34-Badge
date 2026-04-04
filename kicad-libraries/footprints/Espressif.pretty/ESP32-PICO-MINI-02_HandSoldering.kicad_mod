@@ -1,4 +1,4 @@
-(footprint "ESP32-PICO-MINI-02_HandSoldering" (version 20211014) (generator pcbnew)
+(footprint "ESP32-PICO-MINI-02_HandSoldering" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "ESP32-PICO-MINI-02: https://www.espressif.com/sites/default/files/documentation/esp32-pico-mini-02_datasheet_en.pdf")
   (tags "ESP32-PICO-MINI-02")
