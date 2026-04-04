@@ -1,4 +1,4 @@
-(footprint "ESP32-WROVER-E_ThermalVias" (version 20221018) (generator pcbnew)
+(footprint "ESP32-WROVER-E_ThermalVias" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (descr "ESP32-WROVER-E: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf")
   (tags "esp32 module thermal vias")

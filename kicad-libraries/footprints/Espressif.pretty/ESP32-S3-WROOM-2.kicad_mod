@@ -1,4 +1,4 @@
-(footprint "ESP32-S3-WROOM-2" (version 20221018) (generator pcbnew)
+(footprint "ESP32-S3-WROOM-2" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (descr "ESP32-S3-WROOM-2 is a powerful, generic Wi-Fi + Bluetooth LE MCU modules that have Dual core CPU , a rich set of peripherals, provides acceleration for neural network computing and signal processing workloads. They are an ideal choice for a wide variety of application scenarios related to AI + Internet of Things (AIoT), such as wake word detection and speech commands recognition , face detection and recognition, smart home, smart appliance, smart control panel, smart speaker etc.")
   (tags "esp32-s3")

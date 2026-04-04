@@ -1,4 +1,4 @@
-(footprint "ESP32-S2-SOLO" (version 20221018) (generator pcbnew)
+(footprint "ESP32-S2-SOLO" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (descr "ESP32-S2-SOLO https://www.espressif.com/sites/default/files/documentation/esp32-s2-solo_esp32-s2-solo-u_datasheet_en.pdf")
   (tags "esp32-s2 module")

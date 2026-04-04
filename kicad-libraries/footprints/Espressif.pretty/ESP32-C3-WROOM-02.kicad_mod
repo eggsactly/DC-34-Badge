@@ -1,4 +1,4 @@
-(footprint "ESP32-C3-WROOM-02" (version 20221018) (generator pcbnew)
+(footprint "ESP32-C3-WROOM-02" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (descr "ESP32-C3-WROOM-02: https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf")
   (tags "ESP32-C3")
