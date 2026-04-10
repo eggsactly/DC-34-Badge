@@ -4,4 +4,6 @@
   (lib (name "AP3036BKTR-G1")(type "KiCad")(uri "../digikey-kicad-libraries/footprints/AP3036BKTR-G1.pretty")(options "")(descr ""))
   (lib (name "expressif-digikey")(type "KiCad")(uri "../digikey-kicad-libraries/footprints/expressif-digikey.pretty")(options "")(descr ""))
   (lib (name "2171790001")(type "KiCad")(uri "../digikey-kicad-libraries/footprints/2171790001.pretty")(options "")(descr ""))
+  (lib (name "DMG3415U_7")(type "KiCad")(uri "../digikey-kicad-libraries/footprints/DMG3415U_7.pretty")(options "")(descr ""))
+  (lib (name "MAX17048G")(type "KiCad")(uri "../digikey-kicad-libraries/footprints/MAX17048G.pretty")(options "")(descr ""))
 )
